@@ -1,0 +1,86 @@
+.headerPrincipal{
+    background-color: black;
+    padding: 20px 70px;
+    
+}
+
+.containerPrincipal{    
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+    
+   
+}
+
+.logo-header{
+    width: 100px;
+    height: 100px;
+    padding:   0px 20px 0px 0px;
+}
+
+.headerPrincipal-titulo{
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: 24px;
+    
+}
+
+.headerPrincipal-link{
+    text-decoration: none;
+    color:white;
+}
+
+.headerPrincipal-nav{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+}
+
+.headerPrincipal-nav-link{
+    text-decoration: none;
+    color: white;
+    width: auto;
+    margin: 0 0 0 50px;
+}
+
+
+.containerBanner{
+    height: 500px;
+    width: 100%;
+    background-image: url(funkos-banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner{
+    width: 50%;
+}
+
+.h2Banner{
+    font-weight: bolder;
+    color: white;
+    font-size: 35px;
+
+}
+
+.pBanner{
+    color: white;
+
+}
+
+.botonBanner{
+    background-color: white;
+
+}
+
+.banner{
+   
+}
