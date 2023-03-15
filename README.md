@@ -1,7 +1,9 @@
 # challengeCAC
 
 Premisa del challenge
+
 ¡Felicitaciones!
+
 Eres la nueva incorporación a la Agencia Digital “Los Patos
 Programadores” y como primer proyecto te han asignado el
 desarrollo de una tienda en línea de las conocidas figuras
@@ -32,5 +34,6 @@ tecnologías y herramientas:
 - Arquitectura MVC
 - Template Engines
 - MySQL y Gestores de BBDD
+
 Puedes encontrar los diseños realizados en FIGMA de cada vista
-del sitio en el siguiente enlace a los diseños. 
+del sitio en el siguiente enlace a los diseños. (https://www.figma.com/file/CFQrcBzyCVw5yINGQx1mtT/Proyecto-Final-CAC4.0--Funkoshop?t=VAp6qEPPS1fWH2Bv-1)
