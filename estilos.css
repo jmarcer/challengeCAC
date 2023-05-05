@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .headerPrincipal{
     background-color: black;
     padding: 20px 70px;
@@ -76,7 +83,7 @@
 
 }
 
-.botonBanner{
+.enlaceBanner{
     background-color: white;
 
 }
