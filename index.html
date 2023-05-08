@@ -4,32 +4,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="css/index.css">
     <title>Funkoshop</title>
 </head>
 <body>
-    <header class="headerPrincipal"> <!--Inicio header-->
+    <header class=""> <!--Inicio header-->
         
-            <nav class="headerPrincipal-nav">
-                <picture class="containerPrincipal">
-                    <div class="logo-container">
-                       <a href="">
+            <nav class="navbar container">
+                <picture class="navbar__logo">
+                       <a href="./index.html">
                         <img class="logo-header" src="image/branding/logo_light_horizontal.svg" alt="logo">
-                       </a> 
-                    </div>
+                       </a>             
                 </picture>
-                <ul>
-                    <li>
-                        <a class="headerPrincipal-nav-link" href="./pages/shop.html">SHOP</a>
+                <ul class="navbar__menu">
+                    <li class="navbar__item">
+                        <a class="navbar__link" href="./pages/shop.html">SHOP</a>
                     </li>
-                    <li>
-                        <a class="headerPrincipal-nav-link" href="./pages/contacto.html">CONTACTO</a>
+                    <li class="navbar__item">
+                        <a class="navbar__link" href="./pages/contacto.html">CONTACTO</a>
                     </li>
-                    <li>
-                        <a class="headerPrincipal-nav-link" href="./pages/login.html">LOGIN</a>
+                    <li class="navbar__item">
+                        <a class="navbar__link" href="./pages/login.html">LOGIN</a>
                     </li>
-                    <li>
-                        <a class="headerPrincipal-nav-link" href="./pages/cart.html"><img src="image/icons/cart-icon.svg" alt="logo carrito"></a>
+                    <li class="navbar__item">
+                        <a class="navbar__cart" href="./pages/cart.html"><img src="image/icons/cart-icon.svg" alt="logo carrito"></a>
                     </li>
                 </ul>
             </nav>
@@ -37,7 +35,7 @@
 
     </header><!--Fin header-->
 
-    <main>
+    <main class="container">
         
         <section class="containerBanner">
             <article class="banner">
